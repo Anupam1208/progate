@@ -1,0 +1,108 @@
+.container{
+    width:100%;
+    height:50px;
+    color:white;
+    background-color:slategray;
+    
+    
+}
+
+.list1 ul{
+    list-style-type:none;
+    
+
+}
+.header-left p{
+    font-size: large;
+    font-style: Times;
+}
+.header-right li{
+    float:right;
+    padding-right:5px;
+    padding-left: 15px;
+    padding-top: 5px;
+    color:black;
+    
+    list-style-type:none;
+}
+
+.top-wrapper{
+    height:130px;
+    font-size: medium;
+    text-align:center;
+    border-bottom: 2px solid black;
+
+3
+}
+.main{
+    background-color: tomato;
+}
+.heading1{
+    font-style:oblique;
+    font-size: x-large;
+}
+.list1 li{
+    font-style:oblique;
+    margin-bottom: 10px;
+    list-style-type:disc;
+}
+
+.btn-wrapper{
+    margin:20px 0;
+}
+.btn {
+    padding: 12px 24px;
+    color: white;
+    opacity: 0.8;
+    border-radius: 4px;
+    background-color: #006446;
+  }
+  .btn:hover {
+    opacity: 1;
+  }
+ 
+  .lang-wrapper{
+    margin:20px 0;
+}
+
+  .lang{
+    padding: 12px 24px;
+    color: white;
+    opacity: 0.8;
+    border-radius: 4px;
+    background-color: #006446;
+  }
+  .languages p{
+      padding-top: 20px;
+      
+  }
+.interest p{
+    padding-top:60px;
+    
+    
+}
+  .interest{
+    padding: 12px 24px;
+    color: white;
+    opacity: 0.8;
+    border-radius: 4px;
+    background-color: #006446;
+    font-size: xx-small;
+  }
+
+  .interest-wrapper{
+      margin:20px 0;
+  }
+
+  .logo{
+      text-align: center;
+      height:30px;
+      width:auto;
+      margin-right:30px;
+  }
+  .footer{
+      text-align: center;
+  }
+  .footer p{
+      text-align: center;
+  }
